@@ -1,0 +1,159 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?ax7k9z');
+  src:  url('fonts/icomoon.eot?ax7k9z#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ax7k9z') format('truetype'),
+    url('fonts/icomoon.woff?ax7k9z') format('woff'),
+    url('fonts/icomoon.svg?ax7k9z#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-phone:before {
+  content: "\1f4de";
+}
+.icon-add:before {
+  content: "\1f53a";
+}
+.icon-close:before {
+  content: "\10ffff";
+}
+.icon-subtract:before {
+  content: "\1f53b";
+}
+.icon-attachment:before {
+  content: "\1f4ce";
+}
+.icon-file_download:before {
+  content: "\e905";
+}
+.icon-file_upload:before {
+  content: "\e906";
+}
+.icon-apps:before {
+  content: "\e907";
+}
+.icon-arrow_back:before {
+  content: "\e908";
+}
+.icon-arrow_drop_down:before {
+  content: "\e909";
+}
+.icon-arrow_drop_up:before {
+  content: "\e90a";
+}
+.icon-arrow_forward:before {
+  content: "\e90b";
+}
+.icon-check:before {
+  content: "\e90c";
+}
+.icon-expand_less:before {
+  content: "\e90d";
+}
+.icon-expand_more:before {
+  content: "\e90e";
+}
+.icon-menu:before {
+  content: "\e90f";
+}
+.icon-options:before {
+  content: "\e910";
+}
+.icon-refresh:before {
+  content: "\e911";
+}
+.icon-arrow_back_ios:before {
+  content: "\e912";
+}
+.icon-arrow_forward_ios:before {
+  content: "\e913";
+}
+.icon-notifications:before {
+  content: "\1f514";
+}
+.icon-person:before {
+  content: "\e915";
+}
+.icon-check_box:before {
+  content: "\e916";
+}
+.icon-check_box_outline_blank:before {
+  content: "\e917";
+}
+.icon-radio_button_checked:before {
+  content: "\e918";
+}
+.icon-radio_button_unchecked:before {
+  content: "\e919";
+}
+.icon-star:before {
+  content: "\e91a";
+}
+.icon-star_outline:before {
+  content: "\e91b";
+}
+.icon-build:before {
+  content: "\e91c";
+}
+.icon-share:before {
+  content: "\e91d";
+}
+.icon-time:before {
+  content: "\e91e";
+}
+.icon-drag:before {
+  content: "\e91f";
+}
+.icon-rider:before {
+  content: "\e920";
+}
+.icon-error:before {
+  content: "\e921";
+}
+.icon-warning:before {
+  content: "\e922";
+}
+.icon-do_not_disturb:before {
+  content: "\e923";
+}
+.icon-location_off:before {
+  content: "\e924";
+}
+.icon-location:before {
+  content: "\e925";
+}
+.icon-flag:before {
+  content: "\e926";
+}
+.icon-vehicle-sxs:before {
+  content: "\e927";
+}
+.icon-vehicle-snowmobile:before {
+  content: "\e928";
+}
+.icon-vehicle-slingshot:before {
+  content: "\e929";
+}
+.icon-vehicle-atv:before {
+  content: "\e92a";
+}
+.icon-vehicle-motorcycle:before {
+  content: "\e92b";
+}
