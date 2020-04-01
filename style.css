@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'embark-icons';
-  src:  url('fonts/embark-icons.eot?tg6056');
-  src:  url('fonts/embark-icons.eot?tg6056#iefix') format('embedded-opentype'),
-    url('fonts/embark-icons.ttf?tg6056') format('truetype'),
-    url('fonts/embark-icons.woff?tg6056') format('woff'),
-    url('fonts/embark-icons.svg?tg6056#embark-icons') format('svg');
+  src:  url('fonts/embark-icons.eot?7bg3y7');
+  src:  url('fonts/embark-icons.eot?7bg3y7#iefix') format('embedded-opentype'),
+    url('fonts/embark-icons.ttf?7bg3y7') format('truetype'),
+    url('fonts/embark-icons.woff?7bg3y7') format('woff'),
+    url('fonts/embark-icons.svg?7bg3y7#embark-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,9 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-search-24px:before {
+  content: "\e934";
+}
 .icon-home:before {
   content: "\e900";
 }
