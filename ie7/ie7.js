@@ -13,6 +13,7 @@
 		el.innerHTML = '<span style="font-family: \'embark-icons\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'icon-camera-24px': '&#xe937;',
 		'icon-pip-circle-24px': '&#xe936;',
 		'icon-store-24px': '&#xe935;',
 		'icon-search-24px': '&#xe934;',
